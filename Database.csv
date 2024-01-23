@@ -1,8 +1,9 @@
 name,Tier 0,Tier 1,Tier 2,Tier 3,Tier 4,FAKEROLE,Quote,ImageID
-ArcherCodeDelta,true,false,false,false,false,false,,
+Pesky,false,false,false,false,false,false,,
+ArcherCodeDelta,true,false,false,false,false,false,,11
 ღRemiღ,true,false,false,false,false,false,,
-MoneyMommyMlkrs,false,false,false,false,true,false,I am the milk man!,2
-Bizz,false,false,false,false,true,false,,
+MoneyMommyMlkrs,false,false,false,false,true,false,,2
+Bizz,false,false,false,false,true,false,Hi I am bizz!,1
 Domagos,true,false,false,false,false,false,,
 Murmurs,true,false,false,false,false,false,,
 Oneironautical1,false,false,false,true,false,false,,
