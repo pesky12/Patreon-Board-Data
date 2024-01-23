@@ -1,20 +1,20 @@
-name,Tier 0,Tier 1,Tier 2,Tier 3,Tier 4,FAKEROLE,Quote,ImageID
-Pesky,false,false,false,false,false,false,,
-ArcherCodeDelta,true,false,false,false,false,false,,11
-ღRemiღ,true,false,false,false,false,false,,
-MoneyMommyMlkrs,false,false,false,false,true,false,,2
-Bizz,false,false,false,false,true,false,Hi I am bizz!,1
-Domagos,true,false,false,false,false,false,,
-Murmurs,true,false,false,false,false,false,,3
-Oneironautical1,false,false,false,true,false,false,,4
-SHERR01,true,false,false,false,false,false,,
-`Alex`,true,false,false,false,false,false,,
-BlockAid,true,false,false,false,false,false,,
-PulpFreeFiction,true,false,false,false,false,false,,
-Daniel Praxis,false,true,false,false,false,false,,5
-EksCelle,true,false,false,false,false,false,,
-MadEvil Lemon ~,false,true,false,false,false,false,,
-ShmoopyRoo,false,true,false,false,false,false,,
-AdrianWinters,true,false,false,false,false,false,,
-KyleKitten,true,false,false,false,false,false,,
-Peter The UK Mate,true,false,false,false,false,false,,
+name,Tier 0,Tier 1,Tier 2,Tier 3,Tier 4,Quote,ImageID,FAKEROLE
+Pesky,false,false,false,false,false,,,false
+ArcherCodeDelta,true,false,false,false,false,,11,false
+ღRemiღ,true,false,false,false,false,,,false
+MoneyMommyMlkrs,false,false,false,false,true,,2,false
+Bizz,false,false,false,false,true,Hi I am bizz!,1,false
+Domagos,true,false,false,false,false,,,false
+Murmurs,true,false,false,false,false,,3,false
+Oneironautical1,false,false,false,true,false,,4,false
+SHERR01,true,false,false,false,false,,,false
+`Alex`,true,false,false,false,false,,,false
+BlockAid,true,false,false,false,false,,,false
+PulpFreeFiction,true,false,false,false,false,,,false
+Daniel Praxis,false,true,false,false,false,,5,false
+EksCelle,true,false,false,false,false,,,false
+MadEvil Lemon ~,false,true,false,false,false,,,false
+ShmoopyRoo,false,true,false,false,false,,,false
+AdrianWinters,true,false,false,false,false,,,false
+KyleKitten,true,false,false,false,false,,,false
+Peter The UK Mate,true,false,false,false,false,,,false
