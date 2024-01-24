@@ -1,20 +1,22 @@
-name,Tier 0,Tier 1,Tier 2,Tier 3,Tier 4,Quote,ImageID,FAKEROLE
-Pesky,false,false,false,false,false, ,0,false
-ArcherCodeDelta,true,false,false,false,false, ,11,false
-ღRemiღ,true,false,false,false,false, ,0,false
-Bizz,false,false,false,false,true,Hi I am bizz!,1,false
-MoneyMommyMlkrs,false,false,false,false,true,Hi I am skeleton,2,false
-Domagos,true,false,false,false,false, ,0,false
-Murmurs,true,false,false,false,false, ,3,false
-Oneironautical1,false,false,false,true,false, ,4,false
-SHERR01,true,false,false,false,false, ,0,false
-`Alex`,true,false,false,false,false, ,0,false
-BlockAid,true,false,false,false,false, ,0,false
-PulpFreeFiction,true,false,false,false,false, ,0,false
-Daniel Praxis,false,true,false,false,false, ,5,false
-EksCelle,true,false,false,false,false, ,0,false
-MadEvil Lemon ~,false,true,false,false,false, ,0,false
-ShmoopyRoo,false,true,false,false,false, ,0,false
-AdrianWinters,true,false,false,false,false, ,0,false
-KyleKitten,true,false,false,false,false, ,0,false
-Peter The UK Mate,true,false,false,false,false, ,0,false
+name,Tier 0,Tier 1,Tier 2,Tier 3,Tier 4,Quote,ImageID,Staff,FakeRole
+Pesky12,false,false,false,false,false, ,0,true,false
+ArcherCodeDelta,true,false,false,false,false, ,11,false,false
+ღRemiღ,true,false,false,false,false, ,0,false,false
+Bizz,false,false,false,false,true,Hi I am bizz!,1,false,false
+MoneyMommyMlkrs,false,false,false,false,true,Hi I am skeleton,2,false,false
+Domagos,true,false,false,false,false, ,0,false,false
+Murmurs,true,false,false,false,false, ,3,false,false
+Oneironautical1,false,false,false,true,false, ,4,false,false
+SHERR01,true,false,false,false,false, ,0,false,false
+`Alex`,true,false,false,false,false, ,0,false,false
+BlockAid,true,false,false,false,false, ,0,false,false
+PulpFreeFiction,true,false,false,false,false, ,0,false,false
+Daniel Praxis,false,true,false,false,false, ,5,false,false
+EksCelle,true,false,false,false,false, ,0,false,false
+MadEvil Lemon ~,false,true,false,false,false, ,0,false,false
+ShmoopyRoo,false,true,false,false,false, ,0,false,false
+AdrianWinters,true,false,false,false,false, ,0,false,false
+KyleKitten,true,false,false,false,false, ,0,false,false
+Peter The UK Mate,true,false,false,false,false, ,0,false,false
+Splitco,false,false,false,false,false, ,0,true,false
+Chanoler,false,false,false,false,false, ,0,true,false
