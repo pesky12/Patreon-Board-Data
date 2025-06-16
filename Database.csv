@@ -1,5 +1,7 @@
 name,Tier 0,Tier 1,Tier 2,Tier 3,Tier 4,Quote,ImageID,Staff,Birthday
 Pesky12,false,false,false,false,false, ,0,true,false
+Phonce,false,false,false,false,false, ,0,true,false
+haazard,false,false,false,false,false, ,0,true,false
 ArcherCodeDelta,false,false,false,false,false, ,11,false,false
 ღRemiღ,false,false,false,false,false, ,0,false,false
 Bizz,false,false,false,true,false,uhhh,1,true,false
@@ -24,3 +26,4 @@ NotTex,false,false,false,false,false, ,0,true,false
 AnObviousTrap,false,false,false,false,false,Red til I am Dead,5,true,false
 VRCat,false,false,false,false,true,CoolTest,5,true,false
 AlongCameBoom,false,false,false,false,true,CoolTest,5,true,false
+
